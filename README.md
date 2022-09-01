@@ -1,0 +1,2 @@
+# donguler3
+Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program / www.patika.dev
